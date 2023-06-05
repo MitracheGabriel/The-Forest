@@ -117,6 +117,7 @@
 -define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:STARTER_ASSETS_PACKAGES_CHECKED
+-define:CROSS_PLATFORM_INPUT
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
@@ -325,6 +326,7 @@
 -r:"C:/Users/gmitr/The Forest/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
 -r:"C:/Users/gmitr/The Forest/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"C:/Users/gmitr/The Forest/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-firstpass.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
@@ -356,18 +358,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/DoorCellOpen.cs"
 "Assets/Scripts/FlameAnimations.cs"
+"Assets/Scripts/PickUpPistol.cs"
 "Assets/Scripts/PlayerCasting.cs"
 "Assets/Scripts/Sequences/AOpening.cs"
 "Assets/Scripts/Sequences/BFirstTrigger.cs"
-"Assets/StarterAssets/FirstPersonController/Scripts/BasicRigidBodyPush.cs"
-"Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs"
-"Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs"
-"Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs"
-"Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs"
-"Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs"
-"Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs"
-"Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs"
-"Assets/StarterAssets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
 /deterministic

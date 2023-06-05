@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using StarterAssets;
+using UnityStandardAssets.Characters.FirstPerson;
 using UnityEngine.UI;
 using TMPro;
 
