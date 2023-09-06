@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f03001f004a1cf045b10cdc04d185481, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: -1914346738, guid: dcacf7d5ba8639e49a388afa123e789b, type: 3}
+  characterDisplay: {fileID: 3947587442485549370, guid: 326d7ce84a588884ca540dd3bf2b90cb, type: 3}
+  stackable: 0
+  type: 1
+  description: 
+  data:
+    Name: Axe
+    Id: 0
+    buffs:
+    - attribute: 0
+      value: 0
+      min: 3
+      max: 4
+    - attribute: 1
+      value: 0
+      min: 100
+      max: 200
